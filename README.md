@@ -27,4 +27,4 @@ ii) Data Visualisations
 iii) Presentations
 
 
-![Screenshot (11)](https://user-images.githubusercontent.com/100423431/206159423-90a371ef-db5c-4854-8075-32b6cbaf2ad7.png)
+
